@@ -1,6 +1,6 @@
 # ECE3301L.E02 / Summer 2022
 
-lab9 
+lab9 instruction: https://www.youtube.com/watch?v=UvBvXDH-kZg&t=1s
 
 Name: Jihun Choi
 
