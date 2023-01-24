@@ -1,6 +1,6 @@
 # ECE3301L.E02 / Summer 2022
 
-Final - motor control with delay
+Final - motor control with delay- instruction: https://www.youtube.com/watch?v=ldJZ3FwCZss
 
 Name: Jihun Choi
 
