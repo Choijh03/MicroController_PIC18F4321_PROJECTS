@@ -1,6 +1,6 @@
 # ECE3301L.E02 / Summer 2022
 
-lab12 
+lab12 instruction: https://www.youtube.com/watch?time_continue=1&v=htTvNX9Kj-I&embeds_euri=https%3A%2F%2Fcanvas.cpp.edu%2Fcourses%2F51341%2Fassignments%2F433009&feature=emb_logo
 
 *CNY17F was not giving enough current to start my 5V Fan. 
 
