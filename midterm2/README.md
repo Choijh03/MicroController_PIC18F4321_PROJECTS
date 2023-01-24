@@ -1,6 +1,6 @@
 # ECE3301L.E02 / Summer 2022
 
-Midterm2- LCD Calculator
+Midterm2- LCD Calculator- instruction: https://www.youtube.com/watch?v=QZZfp6XSPDE
 
 Name: Jihun Choi
 
