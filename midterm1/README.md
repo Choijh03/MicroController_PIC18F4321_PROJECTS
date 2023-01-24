@@ -1,6 +1,6 @@
 # ECE3301L.E02 / Summer 2022
 
-Midterm10- common annode seven seg display
+Midterm10- common annode seven seg display - instruction: https://www.youtube.com/watch?v=n0UOp9QCQ5o
 
 Name: Jihun Choi
 
